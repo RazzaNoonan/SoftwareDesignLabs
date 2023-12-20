@@ -1,0 +1,5 @@
+package ie.atu.consumer.crypto;
+
+public class ConsumerRunner {
+
+}
